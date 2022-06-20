@@ -64,4 +64,5 @@ Pour finir, notre **42sh** dispose d'une partie "musique", avec plusieurs comman
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174633287-8bd8b8ae-a562-4978-99da-c5b08c485989.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174634380-70ca82e6-a3eb-41c4-b07f-ebbfceb77f91.png">
 </p>
