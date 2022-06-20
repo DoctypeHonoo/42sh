@@ -63,5 +63,5 @@ Les fonctionnalités manquantes sont, certaines fonctions système comme *foreac
 Pour finir, notre **42sh** dispose d'une partie "musique", avec plusieurs commande tel que *play*, *pause*, *song* qui vont permettre de jouer de la musique dans un terminal tout en continuant à l'utiliser.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324680-877675c7-df21-46e5-bc8a-01379c644ab8.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174633287-8bd8b8ae-a562-4978-99da-c5b08c485989.png">
 </p>
