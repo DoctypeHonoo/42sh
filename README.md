@@ -49,7 +49,7 @@ Le binaire se trouvera alors à la racine du projet, et il vous suffira de le la
 $ ./42sh
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324257-643359eb-7f57-478c-85c6-128e540f568f.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174632028-6e1fda10-d7cb-45e9-8c58-7c2d207b5091.png">
 </p>
 
 ---
