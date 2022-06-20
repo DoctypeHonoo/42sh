@@ -24,7 +24,7 @@ Ces caractéristiques doivent être les suivantes :
 - Conserver les commandes précèdement exécutées dans un historique
 - Avoir un système d'auto-completion
 - Gérer les guillemets
-- Et bien évidemment, avoir toute les caractéristiques demandé lors du Minishell2
+- Et bien évidemment, avoir toute les caractéristiques demandées lors du Minishell2
 
 Le 42sh doit être une reproduction de TCSH quasiment identique afin de valider le projet à 100%.
 
@@ -32,7 +32,7 @@ Le 42sh doit être une reproduction de TCSH quasiment identique afin de valider 
 
 ## Fonctions Autorisées : 
 
-- All functions included in the libC or the ncurses library
+- Toute les fonctions inclus dans la libC ou la librairie ncurses
 
 ---
 
@@ -58,7 +58,7 @@ $ ./42sh
 
 Le terminal **42sh** s'utilise comme tout autre terminal, il vous est possible d'utiliser n'importe quel binaire interne, tel que *ls*, *cat*, *grep*, et bien d'autre, mais aussi les fonctions builtins, tel que *cd*, *setenv*, *unsetenv* et *env*. Notre **42sh** possède aussi le *repeat*, les *alias*, les *if*, ainsi que le *where*. Un système de variable a aussi été implémenté, et est fonctionnel. Pour finir notre **42sh** dispose aussi des séparateurs ";", des redirections ">", "<", ">>", et "<<", les pipes "|" et enfin, les "&&" et les "||".
 
-Les fonctionnalités manquantes sont, certaines fonctions système comme *foreach* et *which*, les globbings et les parenthèses.
+Les fonctionnalités manquantes sont, certaines fonctions systèmes comme *foreach* et *which*, les globbings et les parenthèses.
 
 Pour finir, notre **42sh** dispose d'une partie "musique", avec plusieurs commande tel que *play*, *pause*, *song* qui vont permettre de jouer de la musique dans un terminal tout en continuant à l'utiliser.
 
