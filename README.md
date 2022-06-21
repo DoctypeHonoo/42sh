@@ -40,8 +40,8 @@ Le 42sh doit être une reproduction de TCSH quasiment identique afin de valider 
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:EpitechPromo2026/B-PSU-210-MPL-2-1-42sh-romain.very.git
-$ cd B-PSU-210-MPL-2-1-42sh-romain.very
+$ git clone git@github.com:DoctypeHonoo/42sh.git
+$ cd 42sh
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
